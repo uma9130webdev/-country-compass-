@@ -1,0 +1,5 @@
+[submodule "backend/backend"]
+    path = backend/backend
+    url = https://github.com/your-org/your-backend-repo.git
+
+
